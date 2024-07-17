@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyberdiego33
-- 👀 I’m interested in ... cyber security or app development
+- 👀 I’m a cyber security engineer and backend developer
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... team work and to boost learning
 - 📫 How to reach me ... iwujigoodluck5@gmail.com
